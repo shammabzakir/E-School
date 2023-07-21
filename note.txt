@@ -1,0 +1,15 @@
+figma to html
+
+font-family:
+font-family: 'Poppins';
+font-weight: 400; 700; 500
+roboto 400
+
+
+
+
+
+color:
+color: #000000;black
+background: #F0FFF0;
+orange: #FD511A
